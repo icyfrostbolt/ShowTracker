@@ -1,0 +1,43 @@
+{
+    "shows": [
+        {
+            "times": 0,
+            "seasons": [{
+                "number": 1,
+                "times": 0,
+                "episodes": [
+                    {
+                        "times": 0,
+                        "name": "Episode 1"
+                    },
+                    {
+                        "times": 4,
+                        "name": "Episode 2"
+                    }
+                ]
+            }],
+            "name": "Show 1"
+        },
+        {
+            "times": 0,
+            "seasons": [
+                {
+                    "number": 1,
+                    "times": 0,
+                    "episodes": [
+                        {
+                            "times": 0,
+                            "name": "Episode 1"
+                        },
+                        {
+                            "times": 4,
+                            "name": "Episode 2"
+                        }
+                    ]
+                }
+            ],
+            "name": "Show 2"
+        }
+    ],
+    "count": 3
+}

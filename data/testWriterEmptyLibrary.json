@@ -1,0 +1,15 @@
+{
+    "shows": [{
+        "times": 0,
+        "seasons": [{
+            "number": 1,
+            "times": 0,
+            "episodes": [{
+                "times": 0,
+                "name": "Episode 1"
+            }]
+        }],
+        "name": "Masked Singer"
+    }],
+    "count": 1
+}
